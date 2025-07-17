@@ -1,1 +1,9 @@
-
+REQUIRED LIBRARIES
+speech_recognition 
+pyttsx3
+datetime
+webbrowser
+wikipedia
+openai
+os
+"USE YOUR OWN OPEN API KEY"
